@@ -1,5 +1,5 @@
 # Keyword-Network
-Detect HIV-risk-related tweets with Keyword Network + Frequent Pattern Mining
+Detect HIV-risk-related tweets through topic modeling with Keyword Network + Frequent Pattern Mining
 
 ![alt text](https://raw.githubusercontent.com/ydj0604/Keyword-Network/master/Screen.Shot.2016-02-25.at.3.12.23.PM.png)
 
